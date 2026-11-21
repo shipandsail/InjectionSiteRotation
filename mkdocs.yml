@@ -1,0 +1,6 @@
+site_name: InjectionSiteRotation
+site_description: Injection-site rotation for Swift apps that log injections. Logging only, no dosing.
+site_url: https://injectionsiterotation.readthedocs.io/
+repo_url: https://github.com/shipandsail/InjectionSiteRotation
+nav:
+  - Home: index.md
